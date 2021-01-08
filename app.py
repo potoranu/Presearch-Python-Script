@@ -3,8 +3,8 @@ import requests
 from bs4 import BeautifulSoup
 import random
 
-email = "Enter your email"
-password = "Enter your password"
+email = "po7oranu@gmail.com"
+password = "Paranoia113"
 
 r = requests.Session()
 content = r.get("https://www.presearch.org").content
